@@ -1,2 +1,0 @@
-# aboutMe
-aboutMe
