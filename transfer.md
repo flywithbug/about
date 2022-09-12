@@ -6,4 +6,5 @@
    5. 导入到新版App的同一个目录下（删除原目录下文件）
    6. 暂不支持数据合并。
    
-  ![photo](/assets/001.png)
+  ![photo](/assets/002.png)
+  ![photo](/assets/003.png)
